@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner">
+  <img src="Git-Banner.png" alt="Deepak Kumar Khadka Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar Khadka</h1>
@@ -16,37 +16,40 @@ Data Analyst • Business Intelligence Analyst • AI-Assisted Analytics
 
 # 👨‍💻 About Me
 
-📍 Bengaluru, India
+📍 **Bengaluru, India**
 
-🎓 Bachelor of Commerce (B.Com)
+🎓 **Bachelor of Commerce (B.Com)**
 
-💼 Customer Service Support Operator at Siemens Healthineers
+💼 **Customer Service Support Operator | Siemens Healthineers**
 
-📊 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using analytics, visualization, and AI-assisted workflows.
+📊 Aspiring Data Analyst passionate about transforming raw data into actionable business insights through analytics, visualization, dashboard development, and AI-assisted workflows.
 
-🚀 I enjoy solving business problems through dashboards, SQL analysis, automation, and interactive reporting while responsibly leveraging AI tools to improve productivity.
+🚀 I enjoy solving business problems using SQL, Python, Power BI, Tableau, and Excel while responsibly leveraging AI tools to improve productivity and decision-making.
 
 ---
 
 # 💻 Technical Skills
 
-## Programming
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Data Analytics
+### Business Intelligence
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 
-## AI Tools
+### Analytics
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### AI Tools
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
 
-## Development Tools
+### Development Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -58,29 +61,26 @@ Data Analyst • Business Intelligence Analyst • AI-Assisted Analytics
 
 ## 📊 AI-Assisted Retail Sales Analytics Dashboard
 
-End-to-end analytics project covering data cleaning, SQL analysis, KPI reporting, and interactive Power BI dashboards. AI tools were leveraged to accelerate documentation, code refinement, and workflow efficiency while all business analysis was manually validated.
+End-to-end analytics project covering data cleaning, SQL analysis, KPI reporting, and interactive Power BI dashboards. AI tools were leveraged for documentation, workflow support, and code refinement while all analysis and business insights were manually validated.
 
-**Tools:** Python • SQL • Power BI • Excel • ChatGPT • Google Gemini
+**Tech Stack:** Python • SQL • Power BI • Excel • ChatGPT • Google Gemini
 
 ---
 
 ## 👥 HR Analytics & Workforce Insights Dashboard
 
-Interactive Tableau dashboard analyzing employee attrition, workforce demographics, and organizational KPIs to support data-driven HR decision-making.
+Interactive Tableau dashboard analyzing employee attrition, workforce demographics, and organizational KPIs to support workforce planning and business decision-making.
 
-**Tools:** Python • SQL • Tableau • Excel
+**Tech Stack:** Python • SQL • Tableau • Excel
 
 ---
 
 # 🏆 Certifications
 
-✔ Advanced Certification in Data Science & AI – E&ICT Academy IIT Guwahati
-
-✔ Google Advanced Data Analytics Professional Certificate
-
-✔ Deloitte Data Analytics Job Simulation
-
-✔ IBM Data Analytics / Generative AI Certifications
+- ✅ Advanced Certification in Data Science & AI – E&ICT Academy IIT Guwahati
+- ✅ Google Advanced Data Analytics Professional Certificate
+- ✅ Deloitte Data Analytics Job Simulation
+- ✅ IBM Data Analytics / Generative AI Certifications
 
 ---
 
@@ -102,22 +102,22 @@ To build a successful career as a Data Analyst by transforming data into actiona
 
 # 🤝 Connect With Me
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/deepak-khadka-78869a221
 
-📧 Email
-
-deepakkumarkhadka02@gmail.com
-
-🌐 Portfolio
+🌐 **Portfolio**
 
 https://deepak-webfolio.surge.sh
+
+📧 **Email**
+
+deepakkumarkhadka02@gmail.com
 
 ---
 
 <p align="center">
 
-⭐ Turning Data Into Business Insights Through Analytics & AI ⭐
+### ⭐ Turning Data Into Actionable Business Insights ⭐
 
 </p>
