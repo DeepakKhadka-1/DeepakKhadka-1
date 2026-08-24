@@ -159,7 +159,7 @@ A workforce analytics project focused on employee attrition trends, HR KPIs, and
 Explore my complete portfolio, featured projects, certifications, technical skills, and professional journey.
 
 <p align="center">
-<a href="https://deepak-webfolio.surge.sh" target="_blank">
+<a href="https://deepakk-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
@@ -206,7 +206,7 @@ Forage
 
 <p align="center">
 
-<a href="https://deepak-webfolio.surge.sh" target="_blank">
+<a href="https://deepakk-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge"/>
 </a>
 
